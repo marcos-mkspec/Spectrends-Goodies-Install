@@ -1,0 +1,1 @@
+# Spectrends-Goodies-Install
