@@ -19,8 +19,9 @@ O Spectrends Goodies é uma extensão para o Spectrends, adicionando recursos e 
 
 ## Versão atual
 
-Número da versão atual: <span id="version">1.0.0.0</span>
+Número da versão atual: <span id="version">1.1.0.0</span>
 
 ## Suporte
 
 Entre em contato com nossa equipe de suporte através da nossa <a href="https://website.mkspecweb.com.br/area-do-cliente/">área de suporte ao cliente</a>. Respondemos o mais breve possível!
+
